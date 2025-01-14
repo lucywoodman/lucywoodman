@@ -1,5 +1,5 @@
-👋🏼 Heyyyyy! I'm Lu.
+👋🏼 Hey! I'm Lu.
 
-I'm a "full-stack" developer and reasonably okay designer from GB 🇬🇧
+Software Engineer. I started in graphic design, moved through tech support, and found my home in engineering.
 
 [personal site](https://luwoo.co)
